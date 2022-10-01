@@ -1,8 +1,6 @@
-**Log on to codeastro.com for more projects!***
-
 **Database Name: employeeleavedb**
 
-**Developed by CodeAstro**
+**Developed by SAKSHAM SHANDILYA*
 
 **Recommended PHP Version 5.6, 7.4**
 
